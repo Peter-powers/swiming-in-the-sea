@@ -10,3 +10,5 @@
 我们需要研究用户对旅游以及旅游平台的观点和看法，了解用户的喜好和心理。目的是通过数据分析了解用户，根据他们的目的、行为和态度差异，将他们区分不同类型，然后从每种类型中抽取出典型特征，赋予用户画像，最终挖掘出不同人群对产品的偏好和潜在需求，为产品研发、市场宣传和商业运作提供较为客观、准确的数据基础，以便用户在选择东南亚旅游时，能更好消除不知如何做旅游攻略的痛点。
 
 链接地址[http://teoko.pythonanywhere.com/](http://teoko.pythonanywhere.com/)
+
+[http://xinru5python.pythonanywhere.com]([http://xinru5python.pythonanywhere.com])
