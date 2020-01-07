@@ -11,4 +11,4 @@
 
 链接地址[http://teoko.pythonanywhere.com/](http://teoko.pythonanywhere.com/)
 
-[http://xinru5python.pythonanywhere.com]([http://xinru5python.pythonanywhere.com])
+[http://xinru5python.pythonanywhere.com](http://xinru5python.pythonanywhere.com)
